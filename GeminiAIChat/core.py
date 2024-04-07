@@ -10,8 +10,8 @@ class API:
     def prompt(self,prompt):
         self.getRes.sendResponse(prompt)
         
-    def response(self):
+    def response_(self):
         return self.getRes.retrieveShortResponse()
 
-    def detailsResponse(self):
+    def response(self):
         return self.getRes.retrieveDetailResponse()

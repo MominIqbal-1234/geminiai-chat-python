@@ -1,2 +1,4 @@
 python-dotenv
 httpx
+google-generativeai
+google-api-python-client
