@@ -1,3 +1,6 @@
+[![Downloads](https://static.pepy.tech/badge/geminiai-chat-python)](https://pepy.tech/project/geminiai-chat-python)
+
+
 ![image](https://github.com/MominIqbal-1234/geminiai-chat-python/assets/61788052/15e838f4-d6ff-41da-b2b1-366c72c30107)
 
 GeminiAI-Chat – the revolutionary Python library designed to power up your applications with advanced conversational AI capabilities
